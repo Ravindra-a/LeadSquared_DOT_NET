@@ -1,0 +1,8 @@
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\bin\Debug\LeadSquared.exe.config
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\bin\Debug\LeadSquared.exe
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\bin\Debug\LeadSquared.pdb
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\bin\Debug\RestSharp.dll
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\bin\Debug\RestSharp.xml
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\obj\Debug\LeadSquared.csprojResolveAssemblyReference.cache
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\obj\Debug\LeadSquared.exe
+E:\Handson\LeadSquared\LeadSquared\LeadSquared\obj\Debug\LeadSquared.pdb
